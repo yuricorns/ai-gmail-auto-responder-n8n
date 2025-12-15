@@ -42,11 +42,11 @@ Fully functional for testing and learning purposes.
 - ## Screenshots
 
 ### Workflow Overview
-![Workflow](screenshots/workflow.png)
+![Workflow](screenshorts/workflow.png)
 
 ### AI Agent Configuration
-![AI Agent](screenshots/AI-agent.png)
+![AI Agent](screenshorts/AI-agent.png)
 
 ### Successful Execution
-![Execution](screenshots/execution.png)
+![Execution](screenshorts/execution.png)
 
