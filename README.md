@@ -47,7 +47,7 @@ Fully functional for testing and learning purposes.
 ![Workflow](workflow.jpg)
 
 ### AI Agent Configuration
-![AI Agent](AI%20agent.jpg)
+![AI Agent](AI%20agent%20.jpg)
 
 ### Successful Execution
 ![Execution](execution.jpg)
