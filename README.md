@@ -38,3 +38,15 @@ Fully functional for testing and learning purposes.
 - Reply only to important emails
 - Add Google Sheets logging
 - Email categorization using AI
+
+- ## Screenshots
+
+### Workflow Overview
+![Workflow](screenshots/workflow.png)
+
+### AI Agent Configuration
+![AI Agent](screenshots/AI-agent.png)
+
+### Successful Execution
+![Execution](screenshots/execution.png)
+
